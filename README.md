@@ -1,6 +1,6 @@
 # GUESS THE NUMBER
 
-In this repository, I have made this project with the help of Qiskit and qbraid.
+I have made this project with the help of Qiskit and qbraid.
 
 -->The Bernstein-Vazirani Algorithm : Let's say if you were given an n-digit number inside a black box. Our classical computers would take a maximum of n attempts to guess the correct number. So, the time complexity of the classical computer is O(n). But, quantum computers with the help of this algorithm can guess the answer correctly in one shot. Time complexity of quantum computer O(1).
 
